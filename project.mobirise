@@ -382,8 +382,8 @@
           "_name": "contacts2",
           "_anchor": "contacts2-5",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995.jpg",
@@ -418,7 +418,7 @@
           "_anchor": "form1-a",
           "_params": {
             "labelsColor": "#232323",
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
@@ -784,8 +784,8 @@
           "_name": "contacts2",
           "_anchor": "contacts2-5",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995.jpg",
