@@ -502,6 +502,12 @@ h6,
 #header3-9 SMALL {
   color: #f28281;
 }
+#form1-a .form-control-label {
+  color: #232323;
+}
+#form1-a SMALL {
+  color: #f28281;
+}
 #ext_menu-2 .hide-buttons .nav-btn {
   display: none !important;
 }

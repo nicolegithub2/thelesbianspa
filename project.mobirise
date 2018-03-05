@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 10,
+    "uniqCompNum": 11,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@"
   },
@@ -401,6 +401,66 @@
           },
           "text1": "<strong>Address</strong><br>Downtown Victoria contact me for the address<br><br><br>\n<strong>Contacts</strong><br>\nEmail: blissonblissinfo@gmail.com<br>\nPhone: +1 250 508 4428<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><p><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(225, 141, 140);\">Travel website</a><br></p><p><br></p></ul>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            "SMALL": {
+              "color": "#f28281"
+            }
+          },
+          "_anchor": "form1-a",
+          "_params": {
+            "labelsColor": "#232323",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "CONTACT FORM",
+          "subtitle": "Feel free to contact me and ask questions. Please check your spam fold if you don't see an email from me within 24 hours. Many thanks Nicole&nbsp;",
+          "form": {
+            "action": "blissonblissinfo@gmail.com",
+            "alerts": {
+              "success": "Thank you! Please remembe to check your spam folder for a reply in the next 24 hours if you don't see an email in your main inbox. "
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>"
         }
       ]
     },
