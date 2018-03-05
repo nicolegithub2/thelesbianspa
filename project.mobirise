@@ -94,18 +94,18 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/_mg_8245_large-1400x2100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-7993ee-1400x1163.jpg",
               "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": false,
+              "active": true
             },
             "video": {
               "src": "https://www.youtube.com/watch?v=uIhAlWZbqcc",
               "aspectratio": "16:9",
               "autoplay": false,
-              "loop": false,
-              "active": true
+              "loop": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header2",
