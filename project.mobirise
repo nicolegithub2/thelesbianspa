@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LesSpa",
-    "currentPage": "Sessions",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,8 +22,9 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 6,
-    "versionPublish": "3.12.1"
+    "uniqCompNum": 7,
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -36,6 +37,29 @@
         "html_before": ""
       },
       "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#f28281"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Welcome to The Lesbian Spa",
+          "meta": "A place to relax, rejuvenate, and have the freedom to explore pleasure. From an hour massage to a full week of activities. Come say hi and lets see what experience we can create for you. "
+        },
         {
           "_inherit": "menu",
           "_tags": [
@@ -138,7 +162,7 @@
             "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -157,7 +181,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/watermarked-18554080-10211116808628126-398706740-o-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-mg-8245-large-1400x2100.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -178,7 +202,7 @@
           },
           "title": "The &nbsp;Lesbian Spa",
           "text": "Come to the perfect sanctuary. Combine relaxation with pleasure and come out fully rejuvenated &nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"Sessions\" data-toolbar=\"-mbrBtnMove\">Click for session infomation</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"Sessions\" data-toolbar=\"-mbrBtnMove\">Click for session infomation</a>"
         }
       ]
     },

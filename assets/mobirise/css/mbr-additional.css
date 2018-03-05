@@ -411,6 +411,13 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#header3-6 .mbr-section-title,
+#header3-6 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-6 SMALL {
+  color: #f28281;
+}
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
