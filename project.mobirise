@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LesSpa",
-    "currentPage": "Articles",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -95,11 +95,10 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-7993ee-1400x1163.jpg",
+              "src": "@PROJECT_PATH@/assets/images/p1010045-copy-1400x1050.jpg",
               "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false,
               "active": true
             },
             "video": {
