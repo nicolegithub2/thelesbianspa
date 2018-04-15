@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LesSpa",
-    "currentPage": "index.html",
+    "currentPage": "Articles",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,9 +22,10 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 11,
-    "versionPublish": "3.12.1",
-    "path": "@PROJECT_PATH@"
+    "uniqCompNum": 13,
+    "versionPublish": "4.6.6",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -52,10 +53,10 @@
           "_name": "header3",
           "_anchor": "header3-6",
           "_params": {
+            "showMeta": true,
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Welcome to The Lesbian Spa",
           "meta": "A place to relax, rejuvenate, and have the freedom to explore pleasure. From an hour massage to a full week of activities. Come say hi and lets see what experience we can create for you. "
@@ -72,24 +73,24 @@
           },
           "_anchor": "header2-1",
           "_params": {
-            "imageSize": "60",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995.jpg",
-            "bgColor": "#2e2e2e",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#f28281",
-            "inverse": false,
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": true
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": "60",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#f28281",
+            "overlayOpacity": "0.4"
           },
           "media": {
             "image": {
@@ -132,10 +133,10 @@
           "_name": "header3",
           "_anchor": "header3-8",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "My sessions and experiences",
           "meta": "Check out my different sessions &nbsp;and experiences available to you below"
@@ -196,17 +197,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#f28281",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -225,7 +226,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://thelesbianspa.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; The Lesbian Spa<br>Based in Victoria BC<br>&nbsp; +12505084428</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sessions\">Sessions</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact and book\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Articles\">Articles</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sessions\">Sessions</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact and book\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -242,26 +243,26 @@
           },
           "_anchor": "features3-7",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 2,
-            "bgImageRadio": true,
-            "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995.jpg",
-            "bgColor": "#f28281",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.6",
-            "overlayColor": "#f28281",
-            "columns": 4,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#f28281",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#f28281",
+            "overlayOpacity": "0.6"
           },
           "media1": {
             "image": {
@@ -367,10 +368,10 @@
           "_name": "header3",
           "_anchor": "header3-9",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "My contact information",
           "meta": "See below for where I am located and how to contact me"
@@ -385,13 +386,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995.jpg",
-            "bgColor": "#e18d8c",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#e18d8c",
             "overlay": true,
-            "overlayOpacity": "0.3",
             "overlayColor": "#f28281",
+            "overlayOpacity": "0.3",
             "googleMap": {
               "address": "Victoria, BC V8W ",
               "placeId": "ChIJJ1wmUoV0j1QRW6ipREK8PUI",
@@ -417,19 +418,19 @@
           },
           "_anchor": "form1-a",
           "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
             "labelsColor": "#232323",
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
+            "overlayOpacity": 0.5
           },
           "title": "CONTACT FORM",
           "subtitle": "Feel free to contact me and ask questions. Please check your spam fold if you don't see an email from me within 24 hours. Many thanks Nicole&nbsp;",
@@ -467,7 +468,8 @@
     "Sessions": {
       "settings": {
         "title": "Sessions",
-        "meta_descr": "Description and prices of sessions. \nCuddles, massage, sensual massages, and relaxing. "
+        "meta_descr": "Description and prices of sessions. \nCuddles, massage, sensual massages, and relaxing. ",
+        "order": 2
       },
       "components": [
         {
@@ -526,17 +528,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-2",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#f28281",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -555,7 +557,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://thelesbianspa.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; The Lesbian Spa<br>Based in Victoria BC<br>&nbsp; +12505084428</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sessions\">Sessions</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact and book\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Articles\">Articles</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sessions\">Sessions</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact and book\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -572,26 +574,26 @@
           },
           "_anchor": "features3-3",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": 2,
-            "bgImageRadio": true,
-            "parallax": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333-2.jpg",
-            "bgColor": "#f28281",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#f28281",
-            "columns": 4,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showButtons": true
+            "showButtons": true,
+            "paddingTop": "3",
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333-2.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#f28281",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#f28281",
+            "overlayOpacity": "0.7"
           },
           "media1": {
             "image": {
@@ -687,7 +689,8 @@
     "Contact and book": {
       "settings": {
         "title": "Contact information to book ",
-        "meta_descr": "Find out my location and contact information to book a session. "
+        "meta_descr": "Find out my location and contact information to book a session. ",
+        "order": 3
       },
       "components": [
         {
@@ -746,17 +749,17 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-4",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#f28281",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -775,7 +778,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://thelesbianspa.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; The Lesbian Spa<br>Based in Victoria BC<br>&nbsp; +12505084428</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sessions\">Sessions</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact and book\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Articles\">Articles</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sessions\">Sessions</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact and book\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -787,13 +790,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995.jpg",
-            "bgColor": "#e18d8c",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#e18d8c",
             "overlay": true,
-            "overlayOpacity": "0.3",
             "overlayColor": "#f28281",
+            "overlayOpacity": "0.3",
             "googleMap": {
               "address": "Victoria, BC V8W ",
               "placeId": "ChIJJ1wmUoV0j1QRW6ipREK8PUI",
@@ -803,6 +806,130 @@
           },
           "text1": "<strong>Address</strong><br>Downtown Victoria contact me for the address<br><br><br>\n<strong>Contacts</strong><br>\nEmail: blissonblissinfo@gmail.com<br>\nPhone: +1 250 508 4428<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><p><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(225, 141, 140);\">Travel website</a><br></p><p><br></p></ul>"
+        }
+      ]
+    },
+    "Articles": {
+      "settings": {
+        "meta_descr": "Web Creator Description",
+        "title": "Articles",
+        "order": 1,
+        "header_custom": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#ed5453"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f17473!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#f28281"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#f28281",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/99cabc-7ec74df357dc49329a54cdc6bd4125cemv2-d-3379-2760-s-4-22j-167x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://thelesbianspa.com/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://thelesbianspa.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; The Lesbian Spa<br>Based in Victoria BC<br>&nbsp; +12505084428</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Articles\">Articles</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sessions\">Sessions</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact and book\">BUY</a></li>",
+          "_anchor": "ext_menu-b"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#e18d8c",
+            "overlay": true,
+            "overlayColor": "#f28281",
+            "overlayOpacity": "0.3",
+            "googleMap": {
+              "address": "Victoria, BC V8W ",
+              "placeId": "ChIJJ1wmUoV0j1QRW6ipREK8PUI",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>Downtown Victoria contact me for the address<br><br><br>\n<strong>Contacts</strong><br>\nEmail: blissonblissinfo@gmail.com<br>\nPhone: +1 250 508 4428<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><p><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(225, 141, 140);\">Travel website</a><br></p><p><br></p></ul>",
+          "_anchor": "contacts2-c"
         }
       ]
     }
