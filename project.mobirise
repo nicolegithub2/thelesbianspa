@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LesSpa",
-    "currentPage": "index.html",
+    "currentPage": "Articles",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 13,
-    "versionPublish": "4.6.6",
+    "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -382,7 +382,7 @@
           "_name": "contacts2",
           "_anchor": "contacts2-5",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995.jpg",
@@ -786,7 +786,7 @@
           "_name": "contacts2",
           "_anchor": "contacts2-5",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995.jpg",
@@ -909,7 +909,7 @@
           ],
           "_name": "contacts2",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995.jpg",
