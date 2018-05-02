@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LesSpa",
-    "currentPage": "Articles",
+    "currentPage": "London-Lesbian-Massage",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 13,
+    "uniqCompNum": 15,
     "versionPublish": "4.7.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -464,11 +464,11 @@
         }
       ]
     },
-    "Sessions": {
+    "Contact and book": {
       "settings": {
-        "title": "Sessions",
-        "meta_descr": "Description and prices of sessions. \nCuddles, massage, sensual massages, and relaxing. ",
-        "order": 2
+        "title": "Contact information to book ",
+        "meta_descr": "Find out my location and contact information to book a session. ",
+        "order": 4
       },
       "components": [
         {
@@ -509,6 +509,256 @@
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
               "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-4",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#f28281",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/99cabc-7ec74df357dc49329a54cdc6bd4125cemv2-d-3379-2760-s-4-22j-167x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://thelesbianspa.com/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://thelesbianspa.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; The Lesbian Spa<br>Based in Victoria BC<br>&nbsp; +12505084428</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Articles\">Articles</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sessions\">Sessions</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact and book\">BUY</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-5",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#e18d8c",
+            "overlay": true,
+            "overlayColor": "#f28281",
+            "overlayOpacity": "0.3",
+            "googleMap": {
+              "address": "Victoria, BC V8W ",
+              "placeId": "ChIJJ1wmUoV0j1QRW6ipREK8PUI",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>Downtown Victoria contact me for the address<br><br><br>\n<strong>Contacts</strong><br>\nEmail: blissonblissinfo@gmail.com<br>\nPhone: +1 250 508 4428<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><p><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(225, 141, 140);\">Travel website</a><br></p><p><br></p></ul>"
+        }
+      ]
+    },
+    "Articles": {
+      "settings": {
+        "meta_descr": "Web Creator Description",
+        "title": "Articles",
+        "order": 2,
+        "header_custom": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#ed5453"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f17473!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#f28281"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#f28281",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/99cabc-7ec74df357dc49329a54cdc6bd4125cemv2-d-3379-2760-s-4-22j-167x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://thelesbianspa.com/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://thelesbianspa.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; The Lesbian Spa<br>Based in Victoria BC<br>&nbsp; +12505084428</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Articles\">Articles</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sessions\">Sessions</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact and book\">BUY</a></li>",
+          "_anchor": "ext_menu-b"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#e18d8c",
+            "overlay": true,
+            "overlayColor": "#f28281",
+            "overlayOpacity": "0.3",
+            "googleMap": {
+              "address": "Victoria, BC V8W ",
+              "placeId": "ChIJJ1wmUoV0j1QRW6ipREK8PUI",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>Downtown Victoria contact me for the address<br><br><br>\n<strong>Contacts</strong><br>\nEmail: blissonblissinfo@gmail.com<br>\nPhone: +1 250 508 4428<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><p><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(225, 141, 140);\">Travel website</a><br></p><p><br></p></ul>",
+          "_anchor": "contacts2-c"
+        }
+      ]
+    },
+    "Sessions": {
+      "settings": {
+        "title": "Sessions",
+        "meta_descr": "Description and prices of sessions. \nCuddles, massage, sensual massages, and relaxing. ",
+        "order": 3,
+        "header_custom": "",
+        "html_before": "Lesbian massage, London Lesbian massage, Yoni massage, London Yoni massage, Lesbian tantra",
+        "footer_custom": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#ed5453"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f17473!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#f28281"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -685,135 +935,14 @@
         }
       ]
     },
-    "Contact and book": {
+    "London-Lesbian-Massage": {
       "settings": {
-        "title": "Contact information to book ",
-        "meta_descr": "Find out my location and contact information to book a session. ",
-        "order": 3
-      },
-      "components": [
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-4",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#f28281",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/99cabc-7ec74df357dc49329a54cdc6bd4125cemv2-d-3379-2760-s-4-22j-167x128.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "http://thelesbianspa.com/",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://thelesbianspa.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; The Lesbian Spa<br>Based in Victoria BC<br>&nbsp; +12505084428</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Articles\">Articles</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sessions\">Sessions</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact and book\">BUY</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-5",
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#e18d8c",
-            "overlay": true,
-            "overlayColor": "#f28281",
-            "overlayOpacity": "0.3",
-            "googleMap": {
-              "address": "Victoria, BC V8W ",
-              "placeId": "ChIJJ1wmUoV0j1QRW6ipREK8PUI",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<strong>Address</strong><br>Downtown Victoria contact me for the address<br><br><br>\n<strong>Contacts</strong><br>\nEmail: blissonblissinfo@gmail.com<br>\nPhone: +1 250 508 4428<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><p><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(225, 141, 140);\">Travel website</a><br></p><p><br></p></ul>"
-        }
-      ]
-    },
-    "Articles": {
-      "settings": {
-        "meta_descr": "Web Creator Description",
-        "title": "Articles",
+        "meta_descr": "Web Builder Description",
+        "title": "Lesbian Massage",
         "order": 1,
-        "header_custom": ""
+        "header_custom": "",
+        "html_before": "London lesbian massage, lesbian massage London, yoni massage, London yoni massage",
+        "footer_custom": ""
       },
       "components": [
         {
@@ -901,34 +1030,132 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://thelesbianspa.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; The Lesbian Spa<br>Based in Victoria BC<br>&nbsp; +12505084428</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Articles\">Articles</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sessions\">Sessions</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact and book\">BUY</a></li>",
-          "_anchor": "ext_menu-b"
+          "_anchor": "ext_menu-d"
         },
         {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": "1",
+            "paddingBottom": 2,
+            "columns": 4,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995-1.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#f28281",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#f28281",
+            "overlayOpacity": "0.6"
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/watermarked-mg-8549-small-600x900-3.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/watermarked-mg-8698-small-600x900-3.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/watermarked-mg-8245-small-600x900-3.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/watermarked-18516191-10211116808308118-1756952616-n-600x900-3.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "../../../web/app/themes/mobirise3/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Relaxing massage &amp;/or cuddles",
+          "subtitle1": "One hour minimum &nbsp;",
+          "caption1": "Come visit me and come for a relaxing, smoothing massage that focuses on your bodies aches and pains. You can also just come over for some cuddle time and we can chill and relax next to each other. <br>1 hour starts at $79<br>2 hours $149<br>",
+          "title2": "Sensual massage",
+          "subtitle2": "One hour minimum",
+          "caption2": "Step into Nicole's home and let all your worries, tension, and stress all slip away. You body will be touched with care and pleasure, to help you feel pure enjoyable sensations, in a comfortable and relaxed setting. <br>1 hour starts at $130<br>2 hours $239<br>",
+          "title3": "Couples massage",
+          "subtitle3": "One hour minimum",
+          "caption3": "Want to have some relaxing time with a bit of fun with your partner? Come see me and lets help give both partners a sensual massage. <br>1 hour starts at $149<br>2 hours $249&nbsp;<br>",
+          "title4": "Social &amp; massage",
+          "subtitle4": "Starts at 2 and a half hours",
+          "caption4": "This is the perfect session for those that would like to get to know me a little bit more before we start the massage. Lets, relax, chill, eat, and drink together while disusing the perfect way to give you a massage. There are options to visit you, go on a trip, or spend the night over at yours or mine. <br>2.5 hours starts at $249 <br>4 hours $349<br>Overnight – Midnight till 9am $349<br>24 hours $999<br>48 hours $1599<br>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"Contact and book\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"Contact and book\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"Contact and book\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"Contact and book\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts2",
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#e18d8c",
-            "overlay": true,
-            "overlayColor": "#f28281",
-            "overlayOpacity": "0.3",
-            "googleMap": {
-              "address": "Victoria, BC V8W ",
-              "placeId": "ChIJJ1wmUoV0j1QRW6ipREK8PUI",
-              "state": "ok",
-              "stateDetails": ""
+          "_name": "features3",
+          "_styles": {
+            "H5": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000"
             }
           },
-          "text1": "<strong>Address</strong><br>Downtown Victoria contact me for the address<br><br><br>\n<strong>Contacts</strong><br>\nEmail: blissonblissinfo@gmail.com<br>\nPhone: +1 250 508 4428<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><p><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(225, 141, 140);\">Travel website</a><br></p><p><br></p></ul>",
-          "_anchor": "contacts2-c"
+          "_anchor": "features3-e"
         }
       ]
     }
