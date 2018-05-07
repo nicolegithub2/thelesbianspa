@@ -363,7 +363,7 @@
             "showTitle": true,
             "layoutGridRadio": true,
             "imagesPerRowGrid": "3",
-            "rows": 2,
+            "rows": "4",
             "showMoreButton": true,
             "layoutSliderRadio": false,
             "imagesPerRowSlider": 4,
