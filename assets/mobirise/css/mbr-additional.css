@@ -899,15 +899,15 @@ h6,
   color: #ffffff;
 }
 #ext_menu-2 .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #ext_menu-2 .close-icon::before,
 #ext_menu-2 .close-icon::after {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 #ext_menu-2 .link,
 #ext_menu-2 .dropdown-item {
-  color: #ffffff;
+  color: #000000;
 }
 #ext_menu-2 .link {
   font-size: 0.75rem;
@@ -924,22 +924,22 @@ h6,
 }
 #ext_menu-2 .link[aria-expanded="true"],
 #ext_menu-2 .dropdown-menu {
-  background: #ed5453;
+  background: #e6e6e6;
 }
 #ext_menu-2 .nav-dropdown-sm .link:focus,
 #ext_menu-2 .nav-dropdown-sm .link:hover,
 #ext_menu-2 .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-2 .nav-dropdown-sm .dropdown-item:hover {
-  background: #f17473!important;
+  background: #f7f7f7!important;
 }
 #ext_menu-2 .navbar,
 #ext_menu-2 .nav-dropdown-sm,
 #ext_menu-2 .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-2 .nav-dropdown-sm .dropdown-menu {
-  background: #f28281;
+  background: #ffffff;
 }
 #ext_menu-2 .bg-color.transparent .link {
-  color: #ffffff;
+  color: #000000;
   transition: none;
 }
 #ext_menu-2 .bg-color.transparent.opened .link {
@@ -966,15 +966,15 @@ h6,
   color: #ffffff;
 }
 #ext_menu-d .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #ext_menu-d .close-icon::before,
 #ext_menu-d .close-icon::after {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 #ext_menu-d .link,
 #ext_menu-d .dropdown-item {
-  color: #ffffff;
+  color: #000000;
 }
 #ext_menu-d .link {
   font-size: 0.75rem;
@@ -991,22 +991,22 @@ h6,
 }
 #ext_menu-d .link[aria-expanded="true"],
 #ext_menu-d .dropdown-menu {
-  background: #ed5453;
+  background: #e6e6e6;
 }
 #ext_menu-d .nav-dropdown-sm .link:focus,
 #ext_menu-d .nav-dropdown-sm .link:hover,
 #ext_menu-d .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-d .nav-dropdown-sm .dropdown-item:hover {
-  background: #f17473!important;
+  background: #f7f7f7!important;
 }
 #ext_menu-d .navbar,
 #ext_menu-d .nav-dropdown-sm,
 #ext_menu-d .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-d .nav-dropdown-sm .dropdown-menu {
-  background: #f28281;
+  background: #ffffff;
 }
 #ext_menu-d .bg-color.transparent .link {
-  color: #ffffff;
+  color: #000000;
   transition: none;
 }
 #ext_menu-d .bg-color.transparent.opened .link {

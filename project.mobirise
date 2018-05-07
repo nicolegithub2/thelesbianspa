@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LesSpa",
-    "currentPage": "index.html",
+    "currentPage": "Sessions",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -772,13 +772,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -790,16 +790,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#ed5453"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f17473!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#f28281"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -861,7 +861,7 @@
           },
           "_anchor": "features3-3",
           "_params": {
-            "showImages": true,
+            "showImages": false,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
@@ -884,7 +884,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/watermarked-mg-8549-small-600x900.jpg",
+              "src": "file:///C:/Users/Owner/AppData/Local/Mobirise.com/Mobirise/projectData/watermarked-_mg_8549_small-600x900.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -900,7 +900,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"Contact and book\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/watermarked-mg-8698-small-600x900.jpg",
+              "src": "file:///C:/Users/Owner/AppData/Local/Mobirise.com/Mobirise/projectData/watermarked-_mg_8698_small-600x900.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -916,7 +916,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"Contact and book\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/watermarked-mg-8245-small-600x900.jpg",
+              "src": "file:///C:/Users/Owner/AppData/Local/Mobirise.com/Mobirise/projectData/watermarked-_mg_8245_small-600x900.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -932,7 +932,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"Contact and book\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Text or call to book</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/watermarked-18516191-10211116808308118-1756952616-n-600x900.jpg",
+              "src": "file:///C:/Users/Owner/AppData/Local/Mobirise.com/Mobirise/projectData/watermarked-18516191_10211116808308118_1756952616_n-600x900.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -996,13 +996,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -1014,16 +1014,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#ed5453"
+              "background": "#e6e6e6"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f17473!important"
+              "background": "#f7f7f7!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#f28281"
+              "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
