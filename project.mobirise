@@ -634,6 +634,108 @@
       },
       "components": [
         {
+          "_params": {
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "iconsBgColor": "#e6e6e6",
+            "paddingTop": "3",
+            "paddingBottom": 2,
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures5_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.6
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "layers",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "expand",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "compass",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "title1": "Best Way To Find A Lesbian Massage in London",
+          "subtitle1": "Where to start finding a massage for you",
+          "caption1": "London with all its glory and people is a beautiful city. It has a dreamy charm and a sweet life that attracts the people from around the world. One amazing thing about London is the fact that you will spot many independent women exploring the opportunities and scenery of the city. ",
+          "title2": "GETTING A LESBIAN MASSAGE IN LONDON",
+          "subtitle2": "A tell all story about a lesbian massage in London",
+          "caption2": "I have always been an adventurous person full of adrenaline, gusto and the willingness to try just about anything new and dare I say, sexy. So, it was with great anticipation that I booked a session for a lesbian massage with a tantric massage palour in London after coming across information via a website.",
+          "title3": "<div>CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE</div>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Throughout history (and even in the modern world), almost every human society has had generally accepted norms and traditions as it relates to style, color, types of dressing, food, etc. In our ever-changing, fast-paced, tech-driven, neoteric society, however, many of these generally accepted norms are fast receding into oblivion.&nbsp;",
+          "title4": "THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "The popular quote “Change is the only constant thing” made by Heraclitus centuries ago is far more relevant in our fast-paced tech-driven world than ever. The world is changing at such a breath-taking pace that one may be lost in oblivion if one fails to flow with the tide. As good as change can be in any facet of life, adjusting to it often comes with some challenges.&nbsp;",
+          "button1": "<a data-app-btn=\"true\" href=\"getting-a-lesbian-massage-in-london-Experience\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures5",
+          "_styles": {
+            ".mbr-iconfont-features4": {
+              "color": "#e6e6e6 !important"
+            },
+            ".wraper": {
+              "border-color": "#e6e6e6 !important"
+            },
+            "H4": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "extFeatures5-h"
+        },
+        {
           "_inherit": "menu",
           "_tags": [
             "Theme"
@@ -746,108 +848,6 @@
           "text1": "<strong>Address</strong><br>Downtown Victoria contact me for the address<br><br><br>\n<strong>Contacts</strong><br>\nEmail: blissonblissinfo@gmail.com<br>\nPhone: +1 250 508 4428<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><p><a class=\"text-white\" href=\"http://comeadventure.com\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(225, 141, 140);\">Travel website</a><br></p><p><br></p></ul>",
           "_anchor": "contacts2-c"
-        },
-        {
-          "_params": {
-            "showImages": false,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true,
-            "iconsBgColor": "#e6e6e6",
-            "paddingTop": "0",
-            "paddingBottom": 2,
-            "columns": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures5_bg.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.6
-          },
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "layers",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "expand",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "pencil",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "media4": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "compass",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#e6e6e6",
-              "family": "et-line"
-            }
-          },
-          "title1": "Best Way To Find A Lesbian Massage in London",
-          "subtitle1": "Where to start finding a massage for you",
-          "caption1": "London with all its glory and people is a beautiful city. It has a dreamy charm and a sweet life that attracts the people from around the world. One amazing thing about London is the fact that you will spot many independent women exploring the opportunities and scenery of the city. ",
-          "title2": "GETTING A LESBIAN MASSAGE IN LONDON",
-          "subtitle2": "A tell all story about a lesbian massage in London",
-          "caption2": "I have always been an adventurous person full of adrenaline, gusto and the willingness to try just about anything new and dare I say, sexy. So, it was with great anticipation that I booked a session for a lesbian massage with a tantric massage palour in London after coming across information via a website.",
-          "title3": "<div>CROSSDRESSING TRENDS YOU CAN’T AFFORD TO IGNORE</div>",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Throughout history (and even in the modern world), almost every human society has had generally accepted norms and traditions as it relates to style, color, types of dressing, food, etc. In our ever-changing, fast-paced, tech-driven, neoteric society, however, many of these generally accepted norms are fast receding into oblivion.&nbsp;",
-          "title4": "THE BEST FASHION ADVICE FOR A TRANSGENDER FEMALE",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "The popular quote “Change is the only constant thing” made by Heraclitus centuries ago is far more relevant in our fast-paced tech-driven world than ever. The world is changing at such a breath-taking pace that one may be lost in oblivion if one fails to flow with the tide. As good as change can be in any facet of life, adjusting to it often comes with some challenges.&nbsp;",
-          "button1": "<a data-app-btn=\"true\" href=\"getting-a-lesbian-massage-in-london-Experience\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extFeatures5",
-          "_styles": {
-            ".mbr-iconfont-features4": {
-              "color": "#e6e6e6 !important"
-            },
-            ".wraper": {
-              "border-color": "#e6e6e6 !important"
-            },
-            "H4": {
-              "font-size": "16px"
-            }
-          },
-          "_anchor": "extFeatures5-h"
         }
       ]
     },
