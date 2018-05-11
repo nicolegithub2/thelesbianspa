@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LesSpa",
-    "currentPage": "Articles",
+    "currentPage": "Best Way To Find A Lesbian Massage in London",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1472,12 +1472,12 @@
             "showButtons": true,
             "paddingTop": 3,
             "paddingBottom": 2,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extHeader11_bg.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x2995.jpg",
             "parallax": false,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#c1c1c1",
-            "bgText": "Lesbian massage in London Experience",
+            "bgText": "",
             "bgTextStyle": "Montserrat",
             "bgTextColor": "#ffffff",
             "bgTextSize": 250,
