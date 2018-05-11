@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LesSpa",
-    "currentPage": "Articles",
+    "currentPage": "Best-Way-To-Find-A-Lesbian-Massage-in-London",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1457,164 +1457,6 @@
         }
       ]
     },
-    "Best Way To Find A Lesbian Massage in London": {
-      "settings": {
-        "meta_descr": "Help and advice on the best way to find a lesbian massage in London ",
-        "title": "Best Way To Find A Lesbian Massage in London",
-        "order": 2,
-        "header_custom": ""
-      },
-      "components": [
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "paddingTop": 3,
-            "paddingBottom": 2,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x2995.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#c1c1c1",
-            "bgText": "",
-            "bgTextStyle": "Montserrat",
-            "bgTextColor": "#ffffff",
-            "bgTextSize": 250,
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.1
-          },
-          "title": "Best Way To Find A Lesbian Massage in London &nbsp;",
-          "text": "London with all its glory and people is a beautiful city. It has a dreamy charm and a sweet life that attracts the people from around the world. One amazing thing about London is the fact that you will spot many independent women exploring the opportunities and scenery of the city. These women are either on a business trip or a leisure trip and often look for company in the form of professional services. This has given a rise to well structured and highly organized escort business in London which excels in a host of services. One such highly sought after service is that of lesbian massage London.\n<br>A lot of women love to feel the tender treatment given by another woman on their body. Not only does it remove the tiredness from the body, it is also highly soothing to the soul. A lesbian massage can also open your doors to lesbian foreplay and sex. So, if you are a woman with a love for lesbian things, lesbian massage London can be your shortcut to have amazing sex while being pampered by a skilled professional.\n<br>Finding an escort for a lesbian massage is easy. There are plenty of websites which feature a lot of business doing it. Also, there are many independent escorts and agencies that provide the services you are looking for at a very reasonable cost. All you need to do is browse the internet, state your interest and book a lesbian escort for yourself. Everything after that is pretty straightforward. The best approach here is to do your research before hiring someone. You do not want to end up in the hands of an untrained professional and ruin the complete lesbian massage London experience. You want someone who will not only massage your body but will also press points that will unleash the sexual tension hidden in your muscles.\n<br>A well trained lesbian escort knows exactly the kind of pressure and massage you are looking for. She will start with a wonderful massage that will relax your muscles but slowly start building a sexual desire and energy that will make you cum and ask for more. She will treat your body the way it is meant to be treated. She will give you a session that you will never want to end. In her well trained hands and in front of her beautiful body, you will be fully satisfied and happy. She will be at your command, she will help you explore your lesbian wild sides and she will make fuck you like no one has ever. She is the experience your body is waiting for and once she starts working on you, you will know why lesbian massage are the best.\n<br>Lesbian massage London has a lot to offer. The only thing you need to ensure is that you do not hire a wrong person to do it. This website is one source that promises nothing but the best lesbian massage London experience. The ladies here are professional and experienced women who would love to turn your dreams to reality.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Contact and book\" data-toolbar=\"-mbrBtnMove\">Book a Lesbian massage</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Contact and book\" data-toolbar=\"-mbrBtnMove\">Contact information</a>",
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extMsg-box4",
-          "_anchor": "extMsg-box4-n"
-        },
-        {
-          "_inherit": "menu",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
-            },
-            ".link, .dropdown-item": {
-              "color": "#000000"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#000000",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_name": "ext.menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#ffffff",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#000000",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/99cabc-7ec74df357dc49329a54cdc6bd4125cemv2-d-3379-2760-s-4-22j-167x128.jpg",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "http://thelesbianspa.com/",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://thelesbianspa.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; The Lesbian Spa<br>Based in Victoria BC soon London England<br>&nbsp; +12505084428</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Articles\">Articles</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sessions\">Sessions</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact and book\">BUY</a></li>",
-          "_anchor": "ext_menu-l"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#e18d8c",
-            "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.3",
-            "googleMap": {
-              "address": "Victoria, BC V8W ",
-              "placeId": "ChIJJ1wmUoV0j1QRW6ipREK8PUI",
-              "state": "ok",
-              "stateDetails": ""
-            }
-          },
-          "text1": "<strong>Address</strong><br>Downtown Victoria contact me for the address. Soon London England<br><br><br>\n<strong>Contacts</strong><br>\nEmail: blissonblissinfo@gmail.com<br>\nPhone: +1 250 508 4428<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><p><a class=\"text-white\" href=\"http://comeadventure.com\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(225, 141, 140);\">Travel website</a><br></p><p><br></p></ul>",
-          "_anchor": "contacts2-m"
-        }
-      ]
-    },
     "What-is-Lesbian-Tantra-and-How-To-Achieve-It": {
       "settings": {
         "meta_descr": "What is Lesbian Tantra and How To Achieve It? All about what it is and how to do it. ",
@@ -1771,6 +1613,164 @@
           "text1": "<strong>Address</strong><br>Downtown Victoria contact me for the address. Soon London England<br><br><br>\n<strong>Contacts</strong><br>\nEmail: blissonblissinfo@gmail.com<br>\nPhone: +1 250 508 4428<br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><p><a class=\"text-white\" href=\"http://comeadventure.com\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(225, 141, 140);\">Travel website</a><br></p><p><br></p></ul>",
           "_anchor": "contacts2-p"
+        }
+      ]
+    },
+    "Best-Way-To-Find-A-Lesbian-Massage-in-London": {
+      "settings": {
+        "meta_descr": "Help and advice on the best way to find a lesbian massage in London ",
+        "title": "Best Way To Find A Lesbian Massage in London",
+        "order": 2,
+        "header_custom": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": 3,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x2995.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#c1c1c1",
+            "bgText": "",
+            "bgTextStyle": "Montserrat",
+            "bgTextColor": "#ffffff",
+            "bgTextSize": 250,
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1
+          },
+          "title": "Best Way To Find A Lesbian Massage in London &nbsp;",
+          "text": "London with all its glory and people is a beautiful city. It has a dreamy charm and a sweet life that attracts the people from around the world. One amazing thing about London is the fact that you will spot many independent women exploring the opportunities and scenery of the city. These women are either on a business trip or a leisure trip and often look for company in the form of professional services. This has given a rise to well structured and highly organized escort business in London which excels in a host of services. One such highly sought after service is that of lesbian massage London.\n<br>A lot of women love to feel the tender treatment given by another woman on their body. Not only does it remove the tiredness from the body, it is also highly soothing to the soul. A lesbian massage can also open your doors to lesbian foreplay and sex. So, if you are a woman with a love for lesbian things, lesbian massage London can be your shortcut to have amazing sex while being pampered by a skilled professional.\n<br>Finding an escort for a lesbian massage is easy. There are plenty of websites which feature a lot of business doing it. Also, there are many independent escorts and agencies that provide the services you are looking for at a very reasonable cost. All you need to do is browse the internet, state your interest and book a lesbian escort for yourself. Everything after that is pretty straightforward. The best approach here is to do your research before hiring someone. You do not want to end up in the hands of an untrained professional and ruin the complete lesbian massage London experience. You want someone who will not only massage your body but will also press points that will unleash the sexual tension hidden in your muscles.\n<br>A well trained lesbian escort knows exactly the kind of pressure and massage you are looking for. She will start with a wonderful massage that will relax your muscles but slowly start building a sexual desire and energy that will make you cum and ask for more. She will treat your body the way it is meant to be treated. She will give you a session that you will never want to end. In her well trained hands and in front of her beautiful body, you will be fully satisfied and happy. She will be at your command, she will help you explore your lesbian wild sides and she will make fuck you like no one has ever. She is the experience your body is waiting for and once she starts working on you, you will know why lesbian massage are the best.\n<br>Lesbian massage London has a lot to offer. The only thing you need to ensure is that you do not hire a wrong person to do it. This website is one source that promises nothing but the best lesbian massage London experience. The ladies here are professional and experienced women who would love to turn your dreams to reality.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Contact and book\" data-toolbar=\"-mbrBtnMove\">Book a Lesbian massage</a> <a data-app-btn=\"true\" class=\"btn btn-black\" href=\"Contact and book\" data-toolbar=\"-mbrBtnMove\">Contact information</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMsg-box4",
+          "_anchor": "extMsg-box4-n"
+        },
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#000000"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#000000"
+            },
+            ".link, .dropdown-item": {
+              "color": "#000000"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#000000",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_name": "ext.menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#ffffff",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#000000",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/99cabc-7ec74df357dc49329a54cdc6bd4125cemv2-d-3379-2760-s-4-22j-167x128.jpg",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "http://thelesbianspa.com/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"http://thelesbianspa.com/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">&nbsp; The Lesbian Spa<br>Based in Victoria BC soon London England<br>&nbsp; +12505084428</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Articles\">Articles</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Sessions\">Sessions</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"Contact and book\">BUY</a></li>",
+          "_anchor": "ext_menu-l"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x2995.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#e18d8c",
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.3",
+            "googleMap": {
+              "address": "Victoria, BC V8W ",
+              "placeId": "ChIJJ1wmUoV0j1QRW6ipREK8PUI",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>Downtown Victoria contact me for the address. Soon London England<br><br><br>\n<strong>Contacts</strong><br>\nEmail: blissonblissinfo@gmail.com<br>\nPhone: +1 250 508 4428<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul><p><a class=\"text-white\" href=\"http://comeadventure.com\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(225, 141, 140);\">Travel website</a><br></p><p><br></p></ul>",
+          "_anchor": "contacts2-m"
         }
       ]
     }
