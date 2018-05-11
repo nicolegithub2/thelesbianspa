@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "LesSpa",
-    "currentPage": "What-is-Lesbian-Tantra-and-How-To-Achieve-It?",
+    "currentPage": "What-is-Lesbian-Tantra-and-How-To-Achieve-It",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1615,12 +1615,13 @@
         }
       ]
     },
-    "What-is-Lesbian-Tantra-and-How-To-Achieve-It?": {
+    "What-is-Lesbian-Tantra-and-How-To-Achieve-It": {
       "settings": {
         "meta_descr": "What is Lesbian Tantra and How To Achieve It? All about what it is and how to do it. ",
         "title": "What is Lesbian Tantra and How To Achieve It?",
         "order": 1,
-        "header_custom": ""
+        "header_custom": "",
+        "footer_custom": ""
       },
       "components": [
         {
